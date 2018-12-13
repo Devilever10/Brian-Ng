@@ -372,10 +372,15 @@ background-position: bottom;}
 
 background-position: bottom;}
 
-.films-container {  padding-top: 65px;
+.films {text-align: center;
   display: flex;
   justify-content: space-around;
-  flex-wrap:wrap;}
+  flex-wrap:wrap;margin:20px;}
+
+  .contact{text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;margin:20px;}
 
 .menagerie {text-align:center;padding-top:100px;padding-left: 400px;display:inline-grid;grid-gap:40px}
 
@@ -395,6 +400,6 @@ h6 {font-size:30px;padding-top:50px;text-align:center;font-family: Serif;}
 
 div3 {color:red;}
 
-.con {padding-left:275px;}
+.con {padding-left:200px;}
 
 .contact {text-align:right;display:flex;word-break: normal;line-height: 30px;padding-top:90px;}
